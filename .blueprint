@@ -1,0 +1,2 @@
+models:
+    Location: { title: 'string:400', description: longtext }

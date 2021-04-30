@@ -1,0 +1,11 @@
+models:
+  Location:
+    title: string:400
+    description: longtext
+
+controllers:
+  Location:
+    resource: api
+
+
+seeders: Location
